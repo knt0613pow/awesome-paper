@@ -1,13 +1,17 @@
-*Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution
- *https://arxiv.org/abs/2202.10054
-*Domain Generalization by Mutual-Information Regularization with Pre-trained Models
- *https://arxiv.org/abs/2203.10789
-*SelectiveNet: A Deep Neural Network with an Integrated Reject Option
- *https://arxiv.org/abs/1901.09192
-*Training Compute-Optimal Large Language Models
- *https://arxiv.org/abs/2203.15556
-*Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion
- *https://arxiv.org/abs/2203.13777
+* Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution
+  * https://arxiv.org/abs/2202.10054
+  * 
+* Domain Generalization by Mutual-Information Regularization with Pre-trained Models
+  * https://arxiv.org/abs/2203.10789
+  * 
+* SelectiveNet: A Deep Neural Network with an Integrated Reject Option
+  * https://arxiv.org/abs/1901.09192
+  * 
+* Training Compute-Optimal Large Language Models
+  * https://arxiv.org/abs/2203.15556
+  * 
+* Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion
+  * https://arxiv.org/abs/2203.13777
 
 * SharpContour: A Contour-based Boundary Refinement Approach for Efficient and Accurate Instance Segmentation
   * https://xyzhang17.github.io/SharpContour/
@@ -38,6 +42,7 @@
 
 * Prototypical Networks for Few-shot Learning
   * https://arxiv.org/abs/1703.05175
+
 * Revisit Multimodal Meta-Learning through the Lens of Multi-Task Learning
   * https://arxiv.org/abs/2110.14202
 
@@ -46,6 +51,7 @@
 
 * Visual Prompt Tuning
   * https://arxiv.org/abs/2203.12119
+
 * To SMOTE, or not to SMOTE?
   * https://arxiv.org/abs/2201.08528
   
@@ -54,6 +60,7 @@
 
 * A continual learning survey: Defying forgetting in classification tasks
  *https://arxiv.org/abs/1909.08383
+ 
 * Equivariant Diffusion for Molecule Generation in 3D
  * https://arxiv.org/abs/2203.17003
 
