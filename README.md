@@ -1,15 +1,11 @@
 * Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution
   * https://arxiv.org/abs/2202.10054
-  * 
 * Domain Generalization by Mutual-Information Regularization with Pre-trained Models
   * https://arxiv.org/abs/2203.10789
-  * 
 * SelectiveNet: A Deep Neural Network with an Integrated Reject Option
   * https://arxiv.org/abs/1901.09192
-  * 
 * Training Compute-Optimal Large Language Models
-  * https://arxiv.org/abs/2203.15556
-  * 
+  * https://arxiv.org/abs/2203.15556 
 * Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion
   * https://arxiv.org/abs/2203.13777
 
@@ -26,13 +22,13 @@
   * https://arxiv.org/abs/2203.16797
   
 * Exploring Visual Prompts for Adapting Large-Scale Models
- *https://hjbahng.github.io/visual_prompting/
+  * https://hjbahng.github.io/visual_prompting/
 
-* Token Dropping for Efficient BERT Pretraining
- *https://arxiv.org/abs/2203.13240
+* Token Dropping for Efficient BERT Pretraining  
+  * https://arxiv.org/abs/2203.13240
  
-* Integrative Few-Shot Learning for Classification and Segmentation
- *https://arxiv.org/abs/2203.15712
+* Integrative Few-Shot Learning for Classification and Segmentation  
+   * https://arxiv.org/abs/2203.15712
 
 * Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
   * https://arxiv.org/abs/1703.03400
@@ -59,10 +55,10 @@
   * https://arxiv.org/abs/2110.01889
 
 * A continual learning survey: Defying forgetting in classification tasks
- *https://arxiv.org/abs/1909.08383
+  * https://arxiv.org/abs/1909.08383
  
 * Equivariant Diffusion for Molecule Generation in 3D
- * https://arxiv.org/abs/2203.17003
+  * https://arxiv.org/abs/2203.17003
 
 #Book
 *Probabilistic Machine Learning: Advanced Topics
